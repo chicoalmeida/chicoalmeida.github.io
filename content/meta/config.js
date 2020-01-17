@@ -6,17 +6,17 @@ module.exports = {
   siteDescription: "",
   siteUrl: "https://chicoalmeida.io",
   pathPrefix: "",
-  siteImage: "preview.jpg",
+  siteImage: "avatar.jpg",
   siteLanguage: "en",
   // author
   authorName: "chico almeida",
   authorTwitterAccount: "hello_chico",
   // info
   infoTitle: "chico almeida",
-  infoTitleNote: ":)",
+  infoTitleNote: "Software Engineer",
   // manifest.json
   manifestName: "chico's blog",
-  manifestShortName: "chicoBlog", // max 12 characters
+  manifestShortName: "ChicoAlmeida", // max 12 characters
   manifestStartUrl: "/",
   manifestBackgroundColor: colors.background,
   manifestThemeColor: colors.background,
