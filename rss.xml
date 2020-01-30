@@ -1,49 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[chico's blog]]></title><description><![CDATA[chico's blog]]></description><link>https://chicoalmeida.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 17 Jan 2020 14:41:27 GMT</lastBuildDate><item><title><![CDATA[Two things are infinite the universe and human stupidity]]></title><description><![CDATA[Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…]]></description><link>https://chicoalmeida.io/two-things-are-infinite/</link><guid isPermaLink="false">https://chicoalmeida.io/two-things-are-infinite/</guid><content:encoded>&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, &lt;a href=&quot;http://google.com&quot;&gt;adipiscing&lt;/a&gt; eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;
-      &lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;a&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;
-puts a&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
-&lt;p&gt;Pellentesque &lt;code class=&quot;language-text&quot;&gt;sed&lt;/code&gt; sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
-&lt;p&gt;Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.&lt;/p&gt;
-&lt;h3&gt;Cras semper consectetur elementum&lt;/h3&gt;
-&lt;p&gt;Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;
-&lt;p&gt;
-  &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-f16ff.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[chico's blog]]></title><description><![CDATA[chico's blog]]></description><link>https://chicoalmeida.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 30 Jan 2020 21:06:30 GMT</lastBuildDate><item><title><![CDATA[Safari Books Online]]></title><description><![CDATA[Eu AMO o meu Brasilzão, sério mesmo, apesar dos pesares é minha casa e amo o meu povo. Uma das coisas que mais sinto falta por aqui é…]]></description><link>https://chicoalmeida.io/safari-books-online/</link><guid isPermaLink="false">https://chicoalmeida.io/safari-books-online/</guid><content:encoded>&lt;p&gt;Eu AMO o meu Brasilzão, sério mesmo, apesar dos pesares é minha casa e amo o meu povo. Uma das coisas que mais sinto falta por aqui é conteúdo técnico de qualidade, tem muita gente incrível escrevendo coisas e criando conteúdo mas ainda sofremos de uma deficiência grande quando falamos em livros ou cursos de qualidade.&lt;/p&gt;
+&lt;p&gt;Se você trabalha com tecnologia sabe que as coisas acontecem numa velocidade absurdamente rápida, é praticamente impossível traduzir e publicar todo esse conteúdo na mesma velocidade o que nos leva a necessidade de comprar os livros em inglês, o problema maior nessa equação é o preço. Comprar esses livros na velocidade os lançamentos vai te falir rapidinho.&lt;/p&gt;
+&lt;p&gt;E se… alguém criasse um spotify de livros? &lt;/p&gt;
+&lt;p&gt;Tem muita gente fazendo isso por aí, mas cada editora faz o seu e disponibiliza seu conteúdo lá. Legal mas aí vamos cair no mesmo problema do netflix, amazon, hbo, hulu, apple… você pegou a ideia.&lt;/p&gt;
+&lt;p&gt;A O’reilly, famosa editora de livros com os bichinhos na capa, tem sua própria plataforma chamada &lt;a href=&quot;https://en.wikipedia.org/wiki/Safari_Books_Online&quot;&gt;safari books online&lt;/a&gt;. Mas a diferença é que além dos títulos próprios a plataforma disponibiliza várias outras editoras famosas como Manning Publications, famosa pela sere In Action, Addison-Wesley, Adobe Press, Cisco Press, Focal Press, FT Press, IBM Press,
+John Wiley &amp;#x26; Sons, Microsoft Press, Packt, Peachpit, Prentice Hall, e SAS Institute.&lt;/p&gt;
+&lt;p&gt;Show… fiz o pitch do safari, mas meu objetivo não é apenas esse. Quero que você use essa plataforma maravilhosa, mas… o preço é um pouco salgado demais para nós PTB Rs.&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/safari-preco-15459809153dcdc3f71224ff06ae4dc8-19bf2.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
-  &lt;span
-    class=&quot;gatsby-resp-image-wrapper&quot;
-    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
-  &gt;
-    &lt;span
-      class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/9oADAMBAAIQAxAAAAHE42Q40x//xAAaEAACAgMAAAAAAAAAAAAAAAABAgMhBBEi/9oACAEBAAEFAkjYKVYqSN4twz8sxv8A/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAEDAQE/AciP/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/Adqv/8QAHhAAAgEDBQAAAAAAAAAAAAAAAAECEBEhEjEyQdH/2gAIAQEABj8C1S4kntY9M9YE1T//xAAdEAADAAEFAQAAAAAAAAAAAAAAARGBITFBYXHB/9oACAEBAAE/IWLQZZGAnEjbk10G9x4E2lavwo8P/9oADAMBAAIAAwAAABCMP//EABYRAQEBAAAAAAAAAAAAAAAAAAEAMf/aAAgBAwEBPxBAyZ//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/EFq0WD//xAAcEAEAAgIDAQAAAAAAAAAAAAABESEAUTFBYaH/2gAIAQEAAT8QhoAZWUbDLWMAAyHDTE7zQHaWOKFFBe+0fcoAekfacanJkIJoWc//2Q==&apos;); background-size: cover; display: block;&quot;
-    &gt;
-      &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
-        alt=&quot;unsplash.com&quot;
-        title=&quot;&quot;
-        src=&quot;/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-78f2b.jpg&quot;
-        srcset=&quot;/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-dce19.jpg 200w,
-/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-c1413.jpg 400w,
-/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-78f2b.jpg 800w,
-/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-ab4c4.jpg 1200w,
-/static/photo-1490474418585-ba9bad8fd0ea-69657d5d9f9e2a2aa0aa1c3e268ce4a1-f16ff.jpg 1500w&quot;
-        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-      /&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 708px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 57.34463276836158%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAAB20lEQVQoz41T308aQRC+18amRtP3psbWtg9N+mqaxpiYmBatP2j/JtOH6kv7p/AECQFC0DsvIgiChaQBCpHj7rizLuHX5+zI6qkvTrI3O7Mz334zO6eNx2NIqdVqKJVKyOVyME0T5XIZhmGg2WyiUCggm80inU6zv1gsst1oNJDP5+G6LmNILG00GrFRqVQ4IR6P80qlUohEIkgkEmzLi+QFsVgMmUwGyWQS0WiUzy3LugVUGyW9Xg+DwQD9fh/D4RBCCN7LGOlXthR5rkRhaHKjFn2QOzqCvr+PAjE6PTlhu0Jl/q1WoRMzk1hKn3FwgOrZGeeoXGaokMeT0h8rwegbjJuSqRQp4vcveMtL8Lc24K2H4H9dg7f2Bf7GOu1D8KRNyw99vo5ZXYHY271D6Bpw0hP/2zYsTYP79jXcdwuwn8/Anp2GM/8S3Q/vYT+bgjP3As6bV7CfPkGHYn26mDEm/bzLcPcnvI+LuAxvQWxvQhAbQewuKel/eJO1tHvfwxzjLX2C+LHzkGGwDwPSlm3jnEahTbrd6cByHPgXF+xvtdv412rB7XYf9PCWoXopOTY0FvV6nYfZ0HWevyy96h960WMaZvPwEDr55U/ArIJTEgS8f9OjJACk9BUqEwz3swN39AAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;safari pre&amp;#xE7;o&quot; title src=&quot;/static/safari-preco-15459809153dcdc3f71224ff06ae4dc8-19bf2.png&quot; srcset=&quot;/static/safari-preco-15459809153dcdc3f71224ff06ae4dc8-2d42b.png 200w,
+/static/safari-preco-15459809153dcdc3f71224ff06ae4dc8-9300d.png 400w,
+/static/safari-preco-15459809153dcdc3f71224ff06ae4dc8-19bf2.png 708w&quot; sizes=&quot;(max-width: 708px) 100vw, 708px&quot;&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;
-&lt;p&gt;Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.&lt;/p&gt;</content:encoded></item></channel></rss>
+    
+&lt;p&gt;A boa notícia é que é possível ter acesso a plataforma por um precinho mais camarada. Tudo que você precisa é se associar a &lt;a href=&quot;https://www.acm.org/&quot;&gt;ACM&lt;/a&gt;. A ACM é a &lt;a href=&quot;https://pt.wikipedia.org/wiki/Association_for_Computing_Machinery&quot;&gt;primeira sociedade científica e educacional dedicada à computação&lt;/a&gt; e eles possuem um plano especial: &lt;a href=&quot;https://www.acm.org/membership/special-member-rates-developing-countries&quot;&gt;for individuals in economically developing countries&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Através deste &lt;a href=&quot;https://services.acm.org/public/qj/proflevel/proflevel_control.cfm?level=2&amp;#x26;country=Brazil&amp;#x26;form_type=Professional&amp;#x26;promo=LEVEL&quot;&gt;link&lt;/a&gt; você pode associar-se a ACM por 30 dólares, o plano mais básico que já te dará acesso ao safari. A partir daí, como associado você terá um email da acm: fulano@acm.org e usando esse email magico você poderá acessar o Safari.&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/safari-login-c6fa6abae8794915890a5860ac5c748c-f3e9f.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 123.62030905077262%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAZCAYAAAAxFw7TAAAACXBIWXMAABYlAAAWJQFJUiTwAAADFklEQVQ4y51VS08TURSelTsfC6NEXejOP6DEjSaYkGjixkhEtq7YGRRMXLgxulCjsibRgrhw68oYNCYETUQsqUChlLYznc50On3STqfz/Dz39gGEVig3+XrOvXP7zbnnfHOugP8M3/fR7RA8y0J1/i/KMz9h/AiiFo4RNuBVzQORCl7NgrmyAWNhGcb8EqrBMGxVb5F1Tejv47jdEAvsR0kpWItEIcsKEnER5XJ5B1EntEsJJzQqBnKyCqu0iayeg2nW9hVNu6g5oQsfT+fm8GR2Fg7NC/kCtIyObDZPyCGVUqGqae6n0xnE6RSmaXaO8EMohL5AAH2Tk5haXMQmRbkW2YAoJpFISIjHRITDEe6vr9M6WcMwOhN+jcVwcWICFwhfolEYxRKisQQ0LYMi+YVCEXmKmoFFbdtOxxwLzTd8I9IZAhtV0mCF8tqtZDghczzfa7vB8zy4rrsLbL0d6jokVtu2kadjZfN5lKjS5c0yHMfp+Md2aO5vEbJc5XJ5bhnYw710uB2u2yBkYeYo0c2KSpIMRUnTXEKEKq0oKklF4wVismEv5XOSj6bpfJ3Jqimj1pcSCoawFFrCytIKZCmJGhXGsWy4FD23dCTmu1RhNmfwGmvM9ym3LcIqhbvp2ShzOCg5Fjx0P1pVLk5+gnRtGPLgGOSB+xzJoTGItx9AHBiBNPQQ0p1RiIOjdUvriZv3OMRbI4hfH4b6aHwrwuTdx/glHMIf4TShBwvCcSwf7UX4zFUsH7uElROXsXq2H+GeK1g914/lI70I8r0nCafwWziMtfM3tgjL3+ehPZuAPj4N/fUUR+ZFgPAOmZeBnaA1naz+iu17D/3NNDLP36L48XODkM5tkWM2wPpMdRu2z9lzj4rgUUW9Nh2plUPHclCrVGFRZS3TgluifqjngWwBPoO3u0S+SzqlivuOW8f2KmdIT0yDclLhetRIV2lqUUpcQoq0WIslYac0WIkU7CT1TZp7lWrnbsPEqqoa73VMyBk9C5UJVq0L2IrLdSJRqdsNqX6KNteDcJCrcs+O3c03u9ed8g8OP1IJrR9yuQAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;safari login&quot; title src=&quot;/static/safari-login-c6fa6abae8794915890a5860ac5c748c-48538.png&quot; srcset=&quot;/static/safari-login-c6fa6abae8794915890a5860ac5c748c-bed0f.png 200w,
+/static/safari-login-c6fa6abae8794915890a5860ac5c748c-5fd34.png 400w,
+/static/safari-login-c6fa6abae8794915890a5860ac5c748c-48538.png 800w,
+/static/safari-login-c6fa6abae8794915890a5860ac5c748c-f3e9f.png 906w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    </content:encoded></item></channel></rss>
