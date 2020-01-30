@@ -1,11 +1,14 @@
 ---
-title: Two things are infinite the universe and human stupidity
-subTitle: And I'm not sure about the universe.
-category: "sayings"
-cover: photo-1490474418585-ba9bad8fd0ea-cover.jpg
+title: Testing distributed systems 
+subTitle: Dos and don't when testing distributed systems
+category: "distributed-system"
+cover: ../cover/distributed-systems.png
 ---
 
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [adipiscing](http://google.com) eu pulvinar vel, sodales vitae dui. :thumbsup: :smile: :sparkler:
+Testing software seems to be one of the hardest thing we can do on our daily jobs, there are an infinite amount and information about this topic but it seems really hard put that in practice. When was the last time you found a project, read the tests and though: Hey... this is pretty great job?  
+Tests are supposed to be the easiest way to reason about the software you're writing, it should be your guard regarding add new features and it should provide you confidence when changes are made. But most of the time tests tend to be tedious, heavy and flaky... no big deal, you can handle it if that is at a single code base testing inside the boundaries of you service/feature/project/module/{name-it}.
+
+It gets harder and at some level almost impossible when you add 
 
 ```javascript
 a=3
