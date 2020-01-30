@@ -1,9 +1,81 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[chico's blog]]></title><description><![CDATA[chico's blog]]></description><link>https://chicoalmeida.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 30 Jan 2020 21:09:11 GMT</lastBuildDate><item><title><![CDATA[Safari Books Online]]></title><description><![CDATA[Eu AMO o meu Brasilzão, sério mesmo, apesar dos pesares é minha casa e amo o meu povo. Uma das coisas que mais sinto falta por aqui é…]]></description><link>https://chicoalmeida.io/safari-books-online/</link><guid isPermaLink="false">https://chicoalmeida.io/safari-books-online/</guid><content:encoded>&lt;p&gt;Eu AMO o meu Brasilzão, sério mesmo, apesar dos pesares é minha casa e amo o meu povo. Uma das coisas que mais sinto falta por aqui é conteúdo técnico de qualidade, tem muita gente incrível escrevendo coisas e criando conteúdo mas ainda sofremos de uma deficiência grande quando falamos em livros ou cursos de qualidade.&lt;/p&gt;
-&lt;p&gt;Se você trabalha com tecnologia sabe que as coisas acontecem numa velocidade absurdamente rápida, é praticamente impossível traduzir e publicar todo esse conteúdo na mesma velocidade o que nos leva a necessidade de comprar os livros em inglês, o problema maior nessa equação é o preço. Comprar esses livros na velocidade os lançamentos vai te falir rapidinho.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[chico's blog]]></title><description><![CDATA[chico's blog]]></description><link>https://chicoalmeida.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 30 Jan 2020 21:32:45 GMT</lastBuildDate><item><title><![CDATA[Safari Books Online]]></title><description><![CDATA[Eu AMO o meu Brasilzão, sério mesmo, apesar dos pesares é minha casa e amo o meu povo. Uma das coisas que mais sinto falta por aqui é…]]></description><link>https://chicoalmeida.io/safari-books-online/</link><guid isPermaLink="false">https://chicoalmeida.io/safari-books-online/</guid><content:encoded>&lt;p&gt;Eu AMO o meu Brasilzão, sério mesmo, apesar dos pesares é minha casa e amo o meu povo. Uma das coisas que mais sinto falta por aqui é conteúdo técnico de qualidade, tem muita gente incrível escrevendo coisas e criando conteúdo mas ainda sofremos de uma deficiência grande quando falamos em livros ou cursos de qualidade.&lt;/p&gt;
+&lt;p&gt;Se você trabalha com tecnologia sabe que as coisas acontecem numa velocidade absurdamente rápida, é praticamente impossível traduzir e publicar todo esse conteúdo na mesma velocidade. O que nos leva a necessidade de comprar os livros em inglês e o problema maior nessa equação é o preço. Comprar esses livros na velocidade dos lançamentos vai te falir rapidinho. :sos: &lt;/p&gt;
 &lt;p&gt;E se… alguém criasse um spotify de livros? &lt;/p&gt;
-&lt;p&gt;Tem muita gente fazendo isso por aí, mas cada editora faz o seu e disponibiliza seu conteúdo lá. Legal mas aí vamos cair no mesmo problema do netflix, amazon, hbo, hulu, apple… você pegou a ideia.&lt;/p&gt;
+&lt;p&gt;Tem muita gente fazendo isso por aí, mas cada editora faz o seu e disponibiliza seu conteúdo lá. Legal, mas aí vamos cair no mesmo problema do netflix, amazon, hbo, hulu, apple… você pegou a ideia.&lt;/p&gt;
 &lt;p&gt;A O’reilly, famosa editora de livros com os bichinhos na capa, tem sua própria plataforma chamada &lt;a href=&quot;https://en.wikipedia.org/wiki/Safari_Books_Online&quot;&gt;safari books online&lt;/a&gt;. Mas a diferença é que além dos títulos próprios a plataforma disponibiliza várias outras editoras famosas como Manning Publications, famosa pela sere In Action, Addison-Wesley, Adobe Press, Cisco Press, Focal Press, FT Press, IBM Press,
-John Wiley &amp;#x26; Sons, Microsoft Press, Packt, Peachpit, Prentice Hall, e SAS Institute.&lt;/p&gt;
+John Wiley &amp;#x26; Sons, Microsoft Press, Packt, Peachpit, Prentice Hall, e SAS Institute. Além dos livros eles possuem: &lt;/p&gt;
+&lt;p&gt;Live Trainings: &lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/safari-live-training-ed302fa686c824acf057bc16984561b9-8ea17.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 39.86206896551724%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAABYlAAAWJQFJUiTwAAACCUlEQVQoz52SW09TQRSFz4/y2agh0QchJAgGEBsjKA8qxKgEJChWVBIl0CgaaCNXL7ygQeKDxBCgFBFqiEopSBux95ba9vS059Z+TtFf4J7MzMqsvddK9h5JkbNk0hnSYkciMXSzgFkE0zT5n5Bc8/PMTL/FteIiGouRCvwk6vtBMpXGubDAyuIi3i0P6+tr+D3fcTmXyGQVMjkVRTMJhqN8+byK9+sGbrcb6UKThbbachqrynCtOtmbHmNt6CE+v5+KI4e5V1eJtb2Nxvpa3C/s1B8/xtziJ/putDFif8no1Ay9Lc286+uh7lQV0rVmC47WBmqOHmJheYklx2NsLZcIBsN0NJ1j7EoT71+Pc7a6mrn++1hOlDH7cZnWkxU0lFcy+HySW+ctvOq6zpma00jjI3bGbL1cbbmMZ3uHidEJblqH2fi2h31gmDeDDjbXPHR132HE9ogH1rtserfp6e5g4PZFPsxO0dneyeSTfp49HUJKKTl2foXIajpyLseWf49gYh9VN/AFIgdcXjOIi57uBiOoYmgpWcYfDIkeahSKRXzifTcQxiwUkAxdR83lMQ0DNa8SDkVIJpIUBJlK/iYejaOqKnJGJi1Ei0KglBeLxFGyOQrCIBHfJ7mfxBAaUl4csq4djFwTXyWj/cWlQllgQ9ylUAwdRZgL4iBPFrgoVsm4VGP+y/sDfrQb8iAvL/YAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;safari pre&amp;#xE7;o&quot; title src=&quot;/static/safari-live-training-ed302fa686c824acf057bc16984561b9-48538.png&quot; srcset=&quot;/static/safari-live-training-ed302fa686c824acf057bc16984561b9-bed0f.png 200w,
+/static/safari-live-training-ed302fa686c824acf057bc16984561b9-5fd34.png 400w,
+/static/safari-live-training-ed302fa686c824acf057bc16984561b9-48538.png 800w,
+/static/safari-live-training-ed302fa686c824acf057bc16984561b9-b70ec.png 1200w,
+/static/safari-live-training-ed302fa686c824acf057bc16984561b9-d134a.png 1600w,
+/static/safari-live-training-ed302fa686c824acf057bc16984561b9-f6ead.png 2400w,
+/static/safari-live-training-ed302fa686c824acf057bc16984561b9-8ea17.png 2900w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;p&gt;Videos:&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/safari-videos-d3c8c2996fc4802eea35bb754bb812bb-d37f8.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 43.20987654320987%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAABYlAAAWJQFJUiTwAAACKElEQVQoz12SS0iUURTHv13LVgUtRHEpPZEQKqM2tZEKWkTRyxY6tSmiiCDatsmshVBRRIFaCCIJERWTaBCMkzaUNqLTOKPOjDPjPL73fI/5de8XUnjg3HvuOef+7+X8/0q5XCZfKGKYJr7r4jkOrvB6vc66BaFcfD/YPc/DF+65HhtN+RGbI5lYRFdVVNtHd+rotktutUhiMYtWqkg0XLHK6/4GAMsyWcnkyFdtHPGA0rTvGt1dtzByCxiRt6ijPZD5Tu+Lj2zefom+u8+gUmJ6ZJTY0DCr8wk+j0wQHvhE9N0k/f0DNO9sZXfHGaLTMZSG1i72Hj5HLj6F/fAkemgrvL/Hk9fjbGo4wdnOlxhTP4m07efrtkZ+PepjS2MLR/bsormpheePX3H94k26T10hGplGOdR+mtCFELPxFHbvcT5cPkBqbIing2EOtnVwp/M+a/MZ4j0PmL1xm+z4BGNfwsQjYaLfJnkzOEz7jqOcP3aVuZkFlKV0ElcvYzkeqdRvCpqNLeafzq6SETXfUNEcl2XdoFRzgjlWTAuj5gYzzAtSZxYS6CInCVWSySWqmhGwl17KUsgXgsa1YolkahlLgNRsm0VBXCqZFnGNzEo2cFvElmlTzK+haTpSDEq5XEWtaoEUTPGKJsAd8SPDMCkJhmVO1uTZNCxcwaQE0lQ9AJO1ANiyhap8FPkbmZS+bjJe16ErtOn7/zTpuv/3+QFIoFX/rz7/ADxSdKxRk5dSAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;safari pre&amp;#xE7;o&quot; title src=&quot;/static/safari-videos-d3c8c2996fc4802eea35bb754bb812bb-48538.png&quot; srcset=&quot;/static/safari-videos-d3c8c2996fc4802eea35bb754bb812bb-bed0f.png 200w,
+/static/safari-videos-d3c8c2996fc4802eea35bb754bb812bb-5fd34.png 400w,
+/static/safari-videos-d3c8c2996fc4802eea35bb754bb812bb-48538.png 800w,
+/static/safari-videos-d3c8c2996fc4802eea35bb754bb812bb-b70ec.png 1200w,
+/static/safari-videos-d3c8c2996fc4802eea35bb754bb812bb-d134a.png 1600w,
+/static/safari-videos-d3c8c2996fc4802eea35bb754bb812bb-f6ead.png 2400w,
+/static/safari-videos-d3c8c2996fc4802eea35bb754bb812bb-d37f8.png 2916w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;p&gt;Learning Paths:&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/safari-learning-paths-1e589438389708a36b00b60efd246fd6-a083a.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 43.562978427279056%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAABYlAAAWJQFJUiTwAAACL0lEQVQoz42S30tUQRTH7z/Raw9BL9FDYNBDRNBDWLFF9SAFlohWStSDCSJUrPaLzc0KtCy2NsPf5GpUCiEkKohBRqVZaena/ri63t11vbt39967n2auFEEvHThz5sz3O2e+M3OUYDRKUFXRszlygCU8Y8vx/8zK25j2utv5PEoo8Bp1cIzlyQ/M9r3k46NOIqNv+T42zHRvD19eDZCcmSc+OkViaBJ9ZoGF0XEWB4eIjk38c4DyfmSErxPv8D/xsvvABorLt9Dqc3Om+hB7XAXsL95F21MfrS2t+O8/pK+rg4tlRdRVVdDpa+LBTS9XSkqoPXac8TfDKN3Puuh/8Zx6z2W2F+6k6mo1NfVlnLtQQWXlKU6fL6e2ppTDrh2cKD3K9WtVnDxSyN59ezhbWoTroIuCrdvYvHETPr8fpa2jnUCgl/6+Xhoa7/LY5yPQ3U7zvWbq6t3c8nro6Wqn8fYdmppaGBwYwOP1csntpsFzg1gshpZYRVvRyKR1lE/f5ojHE5imxfTcD2bnF7Asm/DSMlMC0/U0ejrjYOGoSl48/HwozGeR23YeLbnKbHCRVDpNXtRQfgZDaFqcbDaLGl0iriXI5UwnqpElMhkDfU0nEooIFXGB5YgtrxAJqxiGQSq1RlTwksnU+i+vCbLcZFmWUJNxXKqVnpWtJAqYpukoTQulkpcTueFgppNLnmFkhWIbxeklsSgTafJKstifPhOYXJMmOX9jcv4bk1FyfwEsSWWxRQS4DgAAAABJRU5ErkJggg==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;safari pre&amp;#xE7;o&quot; title src=&quot;/static/safari-learning-paths-1e589438389708a36b00b60efd246fd6-48538.png&quot; srcset=&quot;/static/safari-learning-paths-1e589438389708a36b00b60efd246fd6-bed0f.png 200w,
+/static/safari-learning-paths-1e589438389708a36b00b60efd246fd6-5fd34.png 400w,
+/static/safari-learning-paths-1e589438389708a36b00b60efd246fd6-48538.png 800w,
+/static/safari-learning-paths-1e589438389708a36b00b60efd246fd6-b70ec.png 1200w,
+/static/safari-learning-paths-1e589438389708a36b00b60efd246fd6-d134a.png 1600w,
+/static/safari-learning-paths-1e589438389708a36b00b60efd246fd6-f6ead.png 2400w,
+/static/safari-learning-paths-1e589438389708a36b00b60efd246fd6-a083a.png 2874w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;p&gt;E até casos de uso:&lt;/p&gt;
+
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/safari-case-studies-c897113460e462dd1af029ba9800aeed-6415a.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 38.311235170969994%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAABYlAAAWJQFJUiTwAAABdklEQVQoz2VSy1LcMBD0x3LgM3LgFzjwKxS3HDhTtSnIvmABe5eNH7Js6y13WqJYIHHVlFrTnta0RsV2u0NV7TFNijFBqfd1HEdY55C+eZ5P8e9+/rYHCj9OCEx7HxDjjBACsUf0EXivPwlljFP6Py4pFuLHBfT1DVgOPQk45zFTuLcyh4uOnQZMcmT3EoG8NwZT08DTjWUjT+2AHUOTK+qzc8jLKxIKb9USnehZ4PAkd1h1awgjKDhD7CuUzytYOnK8kuP9A4zooOnk9vGAn5s9em1RmMUvxLrJHeKblU8cYjzZTKv/Qnpy4YPjVRXL6sBWHSRPXqw3+NO0sNZiy0EtlisMwwDBAS1WG4i+z4Xr1xK/t4+QvUQrB9w9LFFSJ9B+UT6XGIcRzjocqjfUdZuHIlqB8pU2WGR4Z4lr6i4PrWs6VOWBh40w2qB8qXA81pkrNBNJLLL1hJXSGVvmtDIUs/wxcRZq0vk1JE6RSwP84FJtwn8Bd2BoGgi19vsAAAAASUVORK5CYII=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot; alt=&quot;safari pre&amp;#xE7;o&quot; title src=&quot;/static/safari-case-studies-c897113460e462dd1af029ba9800aeed-48538.png&quot; srcset=&quot;/static/safari-case-studies-c897113460e462dd1af029ba9800aeed-bed0f.png 200w,
+/static/safari-case-studies-c897113460e462dd1af029ba9800aeed-5fd34.png 400w,
+/static/safari-case-studies-c897113460e462dd1af029ba9800aeed-48538.png 800w,
+/static/safari-case-studies-c897113460e462dd1af029ba9800aeed-b70ec.png 1200w,
+/static/safari-case-studies-c897113460e462dd1af029ba9800aeed-d134a.png 1600w,
+/static/safari-case-studies-c897113460e462dd1af029ba9800aeed-f6ead.png 2400w,
+/static/safari-case-studies-c897113460e462dd1af029ba9800aeed-6415a.png 2866w&quot; sizes=&quot;(max-width: 800px) 100vw, 800px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
 &lt;p&gt;Show… fiz o pitch do safari, mas meu objetivo não é apenas esse. Quero que você use essa plataforma maravilhosa, mas… o preço é um pouco salgado demais para nós PTB Rs.&lt;/p&gt;
 
   &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/safari-preco-15459809153dcdc3f71224ff06ae4dc8-19bf2.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
@@ -33,4 +105,6 @@ John Wiley &amp;#x26; Sons, Microsoft Press, Packt, Peachpit, Prentice Hall, e S
   &lt;/span&gt;
   
   &lt;/a&gt;
-    </content:encoded></item></channel></rss>
+    
+&lt;p&gt;Espero que vocês curtam e aprendam bastante.&lt;/p&gt;
+&lt;p&gt;That’s all folks!&lt;/p&gt;</content:encoded></item></channel></rss>
